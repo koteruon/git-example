@@ -1,4 +1,4 @@
 #hi, this is comment
-print("hello word & git")
+print("hellow")
 
 
