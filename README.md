@@ -1,5 +1,4 @@
 # practicing git
-這事github練習本
+這是github練習本
 
-eeeeeeeeeeeee
-aaaaaaaaaaaaaa
+update README
